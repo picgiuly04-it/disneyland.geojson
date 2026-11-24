@@ -1,0 +1,95 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.9189, 33.8121]
+      },
+      "properties": {
+        "city": "Anaheim (California)",
+        "country": "United States of America",
+        "park": "Disneyland Resort (Disneyland Park & DCA)",
+        "visitorYoY": "Circa +0,4% annuo recente (~27,5M totali resort; ~69% crescita media biglietto singolo in 10 anni)",
+        "ridesCount": "Circa 60+ attrazioni e giostre tra i due parchi",
+        "priceDelta": "Aumento medio annuo stimato ~5%–6% (biglietto 1 giorno salito in media da $99 nel 2015 a $166 nel 2025, con fasce più alte nei giorni di punta)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.5639, 28.3852]
+      },
+      "properties": {
+        "city": "Orlando (Florida)",
+        "country": "United States of America",
+        "park": "Walt Disney World Resort (4 parchi a tema)",
+        "visitorYoY": "Circa -0,2% su Magic Kingdom (17,8M) e andamento stabile/lieve crescita sull'intero resort",
+        "ridesCount": "Circa 110+ attrazioni e giostre complessive nei 4 parchi",
+        "priceDelta": "Aumento medio annuo stimato ~5,5%–6,5% sul decennio (biglietto medio 1 giorno cresciuto fino a circa +60%–79% in base al parco)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.7758, 48.8674]
+      },
+      "properties": {
+        "city": "Marne-la-Vallée / Parigi",
+        "country": "France",
+        "park": "Disneyland Paris (Disneyland Park & Walt Disney Studios)",
+        "visitorYoY": "Circa +5,7% annuo recente (Disneyland Park ~10,8M e secondo parco ~5,9M)",
+        "ridesCount": "Circa 55+ attrazioni e giostre tra i due parchi",
+        "priceDelta": "Prezzi dinamici a calendario con variazioni annue medie stimate intorno al +4%–7% tra bassa e alta stagione"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [139.8804, 35.6329]
+      },
+      "properties": {
+        "city": "Urayasu / Tokyo",
+        "country": "Japan",
+        "park": "Tokyo Disney Resort (Tokyo Disneyland & DisneySea)",
+        "visitorYoY": "Circa +0,6% annuo recente su Tokyo Disneyland (15,2M) e forte richiamo con Tokyo DisneySea (12,6M)",
+        "ridesCount": "Circa 65+ attrazioni e giostre tra i due parchi",
+        "priceDelta": "Adeguamenti graduali con fasce flessibili (variazioni annue tipiche intorno al +3%–6% legate a stagionalità e nuove aree)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [121.6579, 31.1434]
+      },
+      "properties": {
+        "city": "Shanghai",
+        "country": "China",
+        "park": "Shanghai Disney Resort",
+        "visitorYoY": "Crescita annua sostenuta post-riapertura (~15,0M visitatori annui stimati)",
+        "ridesCount": "Circa 35+ attrazioni e giostre principali",
+        "priceDelta": "Aggiornamenti periodici a scaglioni stagionali (variazione media annua stimata intorno al +4%–6%)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.0413, 22.313]
+      },
+      "properties": {
+        "city": "Isola di Lantau / Hong Kong",
+        "country": "Hong Kong",
+        "park": "Hong Kong Disneyland Resort",
+        "visitorYoY": "Crescita annua positiva trainata dal turismo regionale (~7,7M visitatori annui stimati)",
+        "ridesCount": "Circa 35+ attrazioni e giostre",
+        "priceDelta": "Adeguamenti annui moderati su pass e biglietti a fasce (media stimata ca. +3%–5% l'anno)"
+      }
+    }
+  ]
+}
